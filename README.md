@@ -1,6 +1,6 @@
 # Projeto Automação com: Eclipse, Selenium, Java e Cucumber
 
-## Ferramentas:
+# Ferramentas:
 - [Maven](https://maven.apache.org/ "Maven")
 - [Java](https://www.java.com/pt_BR/ "Java")
 - [JUnit](https://junit.org/junit4/ "JUnit")
@@ -8,14 +8,14 @@
 - [ChromeDriver](https://chromedriver.chromium.org/downloads "ChromeDriver")
 - [Cucumber](https://cucumber.io/ "Cucumber")
 
-##Requisitos:
+# Requisitos:
 
 - [Eclipse IDE] (https://www.eclipse.org/downloads/)
 - [JDK (Java Development Kit)] (https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 - [Selenium WebDriver] (https://www.selenium.dev/documentation/en/webdriver/)
 - [Dependências do Selenium]
 
-##Acesso ao Projeto:
+# Acesso ao Projeto:
 
 1- Clone este repositório em sua máquina local:
 
