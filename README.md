@@ -8,14 +8,14 @@
 - [ChromeDriver](https://chromedriver.chromium.org/downloads "ChromeDriver")
 - [Cucumber](https://cucumber.io/ "Cucumber")
 
-# Requisitos:
+## Requisitos:
 
 - [Eclipse IDE] (https://www.eclipse.org/downloads/)
 - [JDK (Java Development Kit)] (https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 - [Selenium WebDriver] (https://www.selenium.dev/documentation/en/webdriver/)
 - [Dependências do Selenium]
 
-# Acesso ao Projeto:
+## Acesso ao Projeto:
 
 1- Clone este repositório em sua máquina local:
 
@@ -58,7 +58,7 @@ No menu superior, clique em File > Import.
 ```
 
 
-### Arquitetura - Bibliotecas utilizadas
+## Arquitetura - Bibliotecas utilizadas
 
 Foram utilizadas:
 - [selenium-java](https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java "selenium-java")
